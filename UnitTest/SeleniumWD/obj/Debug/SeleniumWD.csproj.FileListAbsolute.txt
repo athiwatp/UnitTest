@@ -1,0 +1,10 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\UnitTest\SeleniumWD\bin\Debug\SeleniumWD.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\UnitTest\SeleniumWD\bin\Debug\SeleniumWD.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\UnitTest\SeleniumWD\bin\Debug\SeleniumWD.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\UnitTest\SeleniumWD\bin\Debug\WebDriver.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\UnitTest\SeleniumWD\bin\Debug\WebDriver.Support.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\UnitTest\SeleniumWD\bin\Debug\WebDriver.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\UnitTest\SeleniumWD\bin\Debug\WebDriver.Support.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\UnitTest\SeleniumWD\obj\Debug\SeleniumWD.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\UnitTest\SeleniumWD\obj\Debug\SeleniumWD.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\UnitTest\SeleniumWD\obj\Debug\SeleniumWD.pdb
